@@ -1,3 +1,3 @@
 # ServiceLocator
-クラスの参照関係をまとめくれる機能  
+クラスの依存関係をまとめてくれる機能です！  
 https://github.com/hamster3156/ServiceLocator
